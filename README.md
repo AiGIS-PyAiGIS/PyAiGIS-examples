@@ -8,3 +8,5 @@ To try these examples, download [a sample data package](https://arcspace.jp/lib/
 ## Examples
 
 1. [LoadingData_and_Visualization.ipynb](LoadingData_and_Visualization.ipynb) : An example of data loading and simple visualizations
+2. [VectorField_Visualization.ipynb](VectorField_Visualization.ipynb) : An example of visualization of vector field data (gravity and slope)
+
